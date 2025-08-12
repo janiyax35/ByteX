@@ -1,0 +1,5 @@
+com/byteX/computer/parts/shop/repository/TicketRepository.class
+com/byteX/computer/parts/shop/ComputerPartsShopApplication.class
+com/byteX/computer/parts/shop/service/TicketService.class
+com/byteX/computer/parts/shop/controller/TicketController.class
+com/byteX/computer/parts/shop/model/Ticket.class
