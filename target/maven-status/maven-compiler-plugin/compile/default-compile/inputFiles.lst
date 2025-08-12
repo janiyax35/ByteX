@@ -1,0 +1,5 @@
+/app/src/main/java/com/byteX/computer/parts/shop/ComputerPartsShopApplication.java
+/app/src/main/java/com/byteX/computer/parts/shop/service/TicketService.java
+/app/src/main/java/com/byteX/computer/parts/shop/model/Ticket.java
+/app/src/main/java/com/byteX/computer/parts/shop/controller/TicketController.java
+/app/src/main/java/com/byteX/computer/parts/shop/repository/TicketRepository.java
